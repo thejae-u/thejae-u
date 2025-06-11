@@ -24,4 +24,5 @@
 
 ### 🤝 Contact
 
-[![Blog](http://img.shields.io/badge/-Jaeu's%20blog-black?style=flat-square&logo=github&link=https://blog.thejaeua.com/)](https://blog.thejaeu.com/) [![Contact](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@thejaeu.com)](mailto:contact@thejaeu.com)
+[![Blog](http://img.shields.io/badge/-Jaeu's%20blog-black?style=flat-square&logo=github&link=https://blog.thejaeua.com/)](https://blog.thejaeu.com/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@thejaeu.com)
+
