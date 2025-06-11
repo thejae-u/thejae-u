@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=😄Hi+I'm+JaeU!👋&fontSize=60)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7DF1E&width=430&lines=Game+Developer;Game+Server+developer!;Learning+New+Things!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7DF1E&width=430&lines=Game+Developer!;Game+Server+developer!;Learning+New+Things!)
 
 ---
 
